@@ -1,8 +1,8 @@
-# Vendor Performance Analysis – Retail Inventory & Sales
-
-![Power BI Dashboard](PowerBIDashboard.jpg)
+# Vendor Performance Analysis – Retail Inventory & Sales\
 
 A full-stack data analytics project using **SQLite**, **Python**, **Pandas**, **Seaborn/Matplotlib**, and **SQL** to create and analyze a comprehensive vendor sales summary table for retail procurement optimization.
+
+![Power BI Dashboard](PowerBIDashboard.jpg)
 
 ---
 
