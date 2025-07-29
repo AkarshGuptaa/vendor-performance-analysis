@@ -14,10 +14,10 @@ Merge and analyze data from multiple vendor-related tables to evaluate performan
 
 Insert your visual outputs here (e.g. dashboards, histograms, scatterplots):
 
-- ETL and summary table structure image: `![ETL Summary Structure](https://your-image-url.png)`
-- Histogram or boxplots of distributions: `![Distribution Plots](https://your-image-url.png)`
-- Pareto chart of vendor contribution & donut chart: `![Pareto & Donut Charts](https://your-image-url.png)`
-- Scatterplot and top brand/vendor bar charts: `![Brand and Vendor Analysis](https://your-image-url.png)`
+- ETL and summary table structure image:
+- Histogram or boxplots of distributions:
+- Pareto chart of vendor contribution & donut chart:
+- Scatterplot and top brand/vendor bar charts:
 
 ---
 
@@ -73,15 +73,8 @@ Insert your visual outputs here (e.g. dashboards, histograms, scatterplots):
 - Saved cleaned summary data as CSV: `vendor_sales_summary.csv`.
 - Ingested final DataFrame back into the `vendor_sales_summary` table in SQLite.
 
----
-
-## How to Run / Reproduce
-
-1. Clone the repository.
-2. Place or connect to your `inventory.db` SQLite file in the project root.
-3. Run `get_vendor_summary.py` to create and persist the `vendor_sales_summary` table.
-4. Execute `eda_analysis.py` or launch the notebook to reproduce statistics and visual charts.
-5. Optional: regenerate the CSV or re-ingest cleaned data into the database.
+### 8. Created a Dashboard in PowerBI
+![Power BI Dashboard](PowerBI Dasboard.jpg)
 
 ---
 
