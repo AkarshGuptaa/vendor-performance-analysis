@@ -74,7 +74,7 @@ Insert your visual outputs here (e.g. dashboards, histograms, scatterplots):
 - Ingested final DataFrame back into the `vendor_sales_summary` table in SQLite.
 
 ### 8. Created a Dashboard in PowerBI
-![Power BI Dashboard](PowerBIDasboard.jpg)
+![Power BI Dashboard](PowerBIDashboard.jpg)
 
 ---
 
